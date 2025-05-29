@@ -1,0 +1,12 @@
+agno
+python-dotenv
+anthropic
+pydantic
+requests
+pandas
+openai
+voyageai
+fastapi
+uvicorn
+python-multipart
+python-docx
